@@ -16,7 +16,7 @@ A full-stack Expense Tracker Dashboard that helps users manage their income and 
 
 🛠️ Tech Stack
 
-Frontend: React.js, Vite, Recharts, Tailwind CSS (optional if you used it)
+Frontend: React.js, Vite, Recharts, Tailwind CSS
 Backend: Node.js, Express.js
 Database: MongoDB
 Tools: Git, VS Code, GitHub
